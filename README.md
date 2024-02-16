@@ -7,6 +7,7 @@ Este é um projeto de console de uma sorveteria simples, onde os clientes podem 
 Oferece um menu interativo para os clientes selecionarem os produtos.
 Permite visualizar os picolés selecionados anteriormente.
 Calcula o custo total dos produtos selecionados.
+Mostra opções de pagamento.
 
 # Como Usar
 Baixe ou clone o repositório em sua máquina local.
